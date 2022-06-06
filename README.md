@@ -1,2 +1,0 @@
-# starterone
-print (hi)
